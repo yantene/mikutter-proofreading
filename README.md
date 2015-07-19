@@ -1,0 +1,2 @@
+# mikutter-proofreading
+投稿ボックスに入力されている日本語文について校正します
