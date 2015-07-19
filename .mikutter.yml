@@ -1,0 +1,9 @@
+---
+slug: :proofreading
+depends:
+  mikutter: 3.2.4
+  plugin: []
+version: '0.1'
+author: yantene
+name: proofreading
+description: "投稿ボックスに入力されている日本語文を校正します。"
