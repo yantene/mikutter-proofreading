@@ -5,7 +5,7 @@ Plugin.create(:proofreading) do
   require 'uri'
   require 'rexml/document'
 
-  settings '推敲支援' do
+  settings '校正支援' do
     input 'Yahoo! App. ID.', :yahoo_appid
     multiselect '表記・表現の間違いや不適切な表現に関する指摘', :proofreading_ind do
       option 1, '誤変換'
