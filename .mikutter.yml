@@ -5,5 +5,5 @@ depends:
   plugin: []
 version: '0.1'
 author: yantene
-name: proofreading
-description: "投稿ボックスに入力されている日本語文を校正します。"
+name: 校正支援
+description: "投稿ボックスに入力されている日本語文の校正を支援します。"
